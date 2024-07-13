@@ -24,8 +24,7 @@ while True:
                 content=file.read()
                 print(content)
                 
-        else:
-            break
+   
     
         
 
