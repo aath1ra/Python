@@ -1,4 +1,4 @@
-
+#creates a file for the user and writes the content given by the user to it
 while True:
     print("Would you like to write or read into a file ?")
     key=input("Press 'w' to write, 'r' to read, 'x' to escape: ")
