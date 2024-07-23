@@ -1,3 +1,4 @@
+#A simple chatbot using a knowledge base json file
 import json
 from difflib import get_close_matches
 
